@@ -1,0 +1,6 @@
+*.pyc
+/dist/
+/src/*.egg-info
+*~
+todo
+bot.log
